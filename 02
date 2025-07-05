@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTIMG:https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg
-#PLAYLIST:Ao no Exorcist: Kyoto Fujōō-hen (2017) - Temporada 2
+#PLAYLIST:Blue Exorcist - Temporada 2 (2017)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x01 - El heredero de la espada maldita
-"https://archive.org/download/demonio-2-11/demonio%202%20%281%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%281%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x02 - El mapa de la espada
-"https://archive.org/download/demonio-2-11/demonio%202%20%282%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%282%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x03 - La prueba del valor
-"https://archive.org/download/demonio-2-11/demonio%202%20%283%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%283%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x04 - La puerta del olvido
-"https://archive.org/download/demonio-2-11/demonio%202%20%284%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%284%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x05 - El secreto del jardín
-"https://archive.org/download/demonio-2-11/demonio%202%20%285%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%285%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x06 - El precio del poder
-"https://archive.org/download/demonio-2-11/demonio%202%20%286%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%286%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x07 - La verdad oculta
-"https://archive.org/download/demonio-2-11/demonio%202%20%287%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%287%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x08 - El pacto de sangre
-"https://archive.org/download/demonio-2-11/demonio%202%20%288%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%288%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x09 - El despertar del demonio
-"https://archive.org/download/demonio-2-11/demonio%202%20%289%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%289%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x10 - La batalla final
-"https://archive.org/download/demonio-2-11/demonio%202%20%2810%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%2810%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x11 - El destino de los hermanos
-"https://archive.org/download/demonio-2-11/demonio%202%20%2811%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%2811%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg",2x12 - El camino a seguir
-"https://archive.org/download/demonio-2-11/demonio%202%20%2812%29.mp4"
+https://archive.org/download/demonio-2-11/demonio%202%20%2812%29.mp4
+
 
 
